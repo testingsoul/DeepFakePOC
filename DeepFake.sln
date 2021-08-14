@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepFake", "DeepFake\DeepFake.csproj", "{EA3E9608-2A07-4E60-9D90-872D7FC1FCEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA3E9608-2A07-4E60-9D90-872D7FC1FCEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA3E9608-2A07-4E60-9D90-872D7FC1FCEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA3E9608-2A07-4E60-9D90-872D7FC1FCEA}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA3E9608-2A07-4E60-9D90-872D7FC1FCEA}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F69F23A-F425-44ED-A1D1-AD8E48DF9E27}
+	EndGlobalSection
+EndGlobal

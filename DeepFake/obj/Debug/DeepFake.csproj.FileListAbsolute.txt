@@ -1,0 +1,59 @@
+C:\Users\User\source\repos\DeepFake\DeepFake\bin\Debug\DeepFake.pdb
+C:\Users\User\source\repos\DeepFake\DeepFake\bin\Debug\PluginsAPI.dll
+C:\Users\User\source\repos\DeepFake\DeepFake\bin\Debug\PluginsAPI.pdb
+C:\Users\User\source\repos\DeepFake\DeepFake\obj\Debug\DeepFake.csprojAssemblyReference.cache
+C:\Users\User\source\repos\DeepFake\DeepFake\obj\Debug\DeepFake.Properties.Resources.resources
+C:\Users\User\source\repos\DeepFake\DeepFake\obj\Debug\DeepFake.csproj.GenerateResource.cache
+C:\Users\User\source\repos\DeepFake\DeepFake\obj\Debug\DeepFake.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DeepFake\DeepFake\obj\Debug\DeepFake.csproj.CopyComplete
+C:\Users\User\source\repos\DeepFake\DeepFake\obj\Debug\DeepFake.pdb
+C:\Users\User\source\repos\DeepFake\DeepFake\obj\Debug\DeepFake.frmDeepFake.resources
+C:\Users\User\source\repos\DeepFake\DeepFake\bin\Debug\DeepFake.exe.config
+C:\Users\User\source\repos\DeepFake\DeepFake\bin\Debug\DeepFake.exe
+C:\Users\User\source\repos\DeepFake\DeepFake\obj\Debug\DeepFake.exe
+C:\Users\User\source\repos\DeepFake\DeepFake\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\DeepFake\DeepFake\bin\Debug\Newtonsoft.Json.xml
+\\thor\sara\Master\TFM\repos\DeepFake\DeepFake\bin\Debug\DeepFake.pdb
+\\thor\sara\Master\TFM\repos\DeepFake\DeepFake\bin\Debug\Newtonsoft.Json.dll
+\\thor\sara\Master\TFM\repos\DeepFake\DeepFake\bin\Debug\Newtonsoft.Json.xml
+\\thor\sara\Master\TFM\repos\DeepFake\DeepFake\bin\Debug\PluginsAPI.pdb
+\\thor\sara\Master\TFM\repos\DeepFake\DeepFake\obj\Debug\DeepFake.csprojAssemblyReference.cache
+\\thor\sara\Master\TFM\repos\DeepFake\DeepFake\obj\Debug\DeepFake.frmDeepFake.resources
+\\thor\sara\Master\TFM\repos\DeepFake\DeepFake\obj\Debug\DeepFake.Properties.Resources.resources
+\\thor\sara\Master\TFM\repos\DeepFake\DeepFake\obj\Debug\DeepFake.csproj.GenerateResource.cache
+\\thor\sara\Master\TFM\repos\DeepFake\DeepFake\obj\Debug\DeepFake.csproj.CoreCompileInputs.cache
+\\thor\sara\Master\TFM\repos\DeepFake\DeepFake\obj\Debug\DeepFake.csproj.CopyComplete
+\\thor\sara\Master\TFM\repos\DeepFake\DeepFake\obj\Debug\DeepFake.pdb
+\\thor\sara\Master\TFM\repos\DeepFake\DeepFake\bin\Debug\DeepFake.exe.config
+\\thor\sara\Master\TFM\repos\DeepFake\DeepFake\bin\Debug\DeepFake.exe
+\\thor\sara\Master\TFM\repos\DeepFake\DeepFake\obj\Debug\DeepFake.exe
+C:\Users\pablo\Desktop\DeepFake\DeepFake\bin\Debug\DeepFake.dll.config
+C:\Users\pablo\Desktop\DeepFake\DeepFake\bin\Debug\DeepFake.dll
+C:\Users\pablo\Desktop\DeepFake\DeepFake\bin\Debug\DeepFake.pdb
+C:\Users\pablo\Desktop\DeepFake\DeepFake\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pablo\Desktop\DeepFake\DeepFake\bin\Debug\PluginsAPI.dll
+C:\Users\pablo\Desktop\DeepFake\DeepFake\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pablo\Desktop\DeepFake\DeepFake\bin\Debug\PluginsAPI.pdb
+C:\Users\pablo\Desktop\DeepFake\DeepFake\obj\Debug\DeepFake.csprojAssemblyReference.cache
+C:\Users\pablo\Desktop\DeepFake\DeepFake\obj\Debug\DeepFake.frmDeepFake.resources
+C:\Users\pablo\Desktop\DeepFake\DeepFake\obj\Debug\DeepFake.Properties.Resources.resources
+C:\Users\pablo\Desktop\DeepFake\DeepFake\obj\Debug\DeepFake.csproj.GenerateResource.cache
+C:\Users\pablo\Desktop\DeepFake\DeepFake\obj\Debug\DeepFake.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\DeepFake\DeepFake\obj\Debug\DeepFake.csproj.CopyComplete
+C:\Users\pablo\Desktop\DeepFake\DeepFake\obj\Debug\DeepFake.dll
+C:\Users\pablo\Desktop\DeepFake\DeepFake\obj\Debug\DeepFake.pdb
+C:\Users\pablo\Desktop\DeepFake - copia\DeepFake\bin\Debug\DeepFake.pdb
+C:\Users\pablo\Desktop\DeepFake - copia\DeepFake\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pablo\Desktop\DeepFake - copia\DeepFake\bin\Debug\PluginsAPI.dll
+C:\Users\pablo\Desktop\DeepFake - copia\DeepFake\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pablo\Desktop\DeepFake - copia\DeepFake\bin\Debug\PluginsAPI.pdb
+C:\Users\pablo\Desktop\DeepFake - copia\DeepFake\obj\Debug\DeepFake.csprojAssemblyReference.cache
+C:\Users\pablo\Desktop\DeepFake - copia\DeepFake\obj\Debug\DeepFake.frmDeepFake.resources
+C:\Users\pablo\Desktop\DeepFake - copia\DeepFake\obj\Debug\DeepFake.Properties.Resources.resources
+C:\Users\pablo\Desktop\DeepFake - copia\DeepFake\obj\Debug\DeepFake.csproj.GenerateResource.cache
+C:\Users\pablo\Desktop\DeepFake - copia\DeepFake\obj\Debug\DeepFake.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\DeepFake - copia\DeepFake\obj\Debug\DeepFake.csproj.CopyComplete
+C:\Users\pablo\Desktop\DeepFake - copia\DeepFake\obj\Debug\DeepFake.pdb
+C:\Users\pablo\Desktop\DeepFake - copia\DeepFake\bin\Debug\DeepFake.dll.config
+C:\Users\pablo\Desktop\DeepFake - copia\DeepFake\bin\Debug\DeepFake.dll
+C:\Users\pablo\Desktop\DeepFake - copia\DeepFake\obj\Debug\DeepFake.dll

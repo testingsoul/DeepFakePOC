@@ -1,0 +1,10 @@
+\\thor\sara\Master\TFM\repos\DeepFake\DeepFake\obj\Release\DeepFake.csprojAssemblyReference.cache
+\\thor\sara\Master\TFM\repos\DeepFake\DeepFake\obj\Release\DeepFake.frmDeepFake.resources
+\\thor\sara\Master\TFM\repos\DeepFake\DeepFake\obj\Release\DeepFake.Properties.Resources.resources
+\\thor\sara\Master\TFM\repos\DeepFake\DeepFake\obj\Release\DeepFake.csproj.GenerateResource.cache
+\\thor\sara\Master\TFM\repos\DeepFake\DeepFake\obj\Release\DeepFake.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\DeepFake\DeepFake\obj\Release\DeepFake.csprojAssemblyReference.cache
+C:\Users\pablo\Desktop\DeepFake\DeepFake\obj\Release\DeepFake.frmDeepFake.resources
+C:\Users\pablo\Desktop\DeepFake\DeepFake\obj\Release\DeepFake.Properties.Resources.resources
+C:\Users\pablo\Desktop\DeepFake\DeepFake\obj\Release\DeepFake.csproj.GenerateResource.cache
+C:\Users\pablo\Desktop\DeepFake\DeepFake\obj\Release\DeepFake.csproj.CoreCompileInputs.cache
